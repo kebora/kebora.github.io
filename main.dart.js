@@ -68957,7 +68957,7 @@ A.a1c.prototype={
 $0(){$.eG().dj("open",["https://github.com/kebora/Ishara"])},
 $S:0}
 A.a1d.prototype={
-$0(){$.eG().dj("open",[""])},
+$0(){$.eG().dj("open",["https://play.google.com/apps/internaltest/4701559001780237625"])},
 $S:0}
 A.Hl.prototype={
 K(a){var s=null,r=A.o_("assets/images/api1.png",300),q=A.bS(a,s,t.w).w,p=t.p
